@@ -1,4 +1,4 @@
-"year","round","home","away","winner","loser"
+"tournament_id","round","home","away","winner","loser"
 1932,"Final","Samuel Flores","Li Wei","Li Wei","Samuel Flores"
 1934,"Round_of_16","Jackson Davis","Max Williams","Max Williams","Jackson Davis"
 1934,"Round_of_16","Mateo Diaz","Rafael Castillo","Rafael Castillo","Mateo Diaz"

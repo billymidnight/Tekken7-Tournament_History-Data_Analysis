@@ -1,3 +1,6 @@
+--Calculates and queries each participant's overall win_percentage across the entire tournament history from available data
+--Output query has (in order) name, wins, appearances, wins/appearances*100 i.e. win_percent
+
 SELECT
   p.name AS participant,
   COUNT(*) FILTER (WHERE c.winner = p.name) AS wins,
